@@ -1,0 +1,8 @@
+.container_menu_bar {
+    display: flex;
+    flex-direction: row;
+    min-height: 6vh;
+    border-color: brown;
+    border-style: solid;
+    justify-content: flex-start;
+}
